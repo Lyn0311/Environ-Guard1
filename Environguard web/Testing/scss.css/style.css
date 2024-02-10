@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+.green{
+    color: #9de002;
+}
+
+.dark-green{
+    color: #618a02;
+}
+.bg-green{
+    background-color: #9de002;
+}
+.bg-amber{
+    background-color: #ffe6005a;
+}
+
+.bg-lightgreen{
+    background-color: #8fff0754;
+}
+
+.bg-blue{
+    background-color: rgba(121, 238, 199, 0.349);
+}
+
+.bg-orange{
+    background-color: rgba(255, 196, 0, 0.336);
+}
+
+.sign-up-button {
+    background-color: #4C862D !important;
+    border: none !important;
+    padding: 10px 15px !important;
+}
+
+.sign-up-button:hover {
+    background-color: #9DD549 !important;
+}
+
